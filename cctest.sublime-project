@@ -3,6 +3,12 @@
 	[
 		{
 			"path": "/C/collin/projects/node/cctest"
+		},
+		{
+			"path": "/C/collin/projects/node/collinchristensen-com/node_modules"
+		},
+		{
+			"path": "/C/collin/projects/node/collinchristensen-com/templates"
 		}
 	]
 }
